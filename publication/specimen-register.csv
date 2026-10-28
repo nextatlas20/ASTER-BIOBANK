@@ -1,0 +1,6 @@
+sequence,specimen_id,study,origin_site,destination_site,current_site,last_event_id,last_event_at,status
+1,SP-ALPHA,Oncology Panel,North Lab,Archive A,Archive A,EV-102,2026-09-14T10:15Z,DELIVERED
+2,SP-BRAVO,Virology Survey,East Clinic,Vault B,Transit Bay 2,EV-103,2026-09-14T09:20Z,QUARANTINED
+3,SP-CHARLIE,Wetland Ecology,Field Hub,Freezer C,Freezer C,EV-106,2026-09-14T12:00Z,DELIVERED
+4,SP-DELTA,Genetics Cohort,South Ward,Archive D,Archive D,EV-113,2026-09-14T11:00Z,DELIVERED
+5,SP-ECHO,Toxicology Screen,Dock 2,Vault E,Transit Bay 4,EV-114,2026-09-14T08:15Z,IN_TRANSIT
