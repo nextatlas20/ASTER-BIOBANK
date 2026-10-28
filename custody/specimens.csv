@@ -1,0 +1,6 @@
+sequence,specimen_id,study,origin_site,destination_site
+1,SP-ALPHA,Oncology Panel,North Lab,Archive A
+2,SP-BRAVO,Virology Survey,East Clinic,Vault B
+3,SP-CHARLIE,Wetland Ecology,Field Hub,Freezer C
+4,SP-DELTA,Genetics Cohort,South Ward,Archive D
+5,SP-ECHO,Toxicology Screen,Dock 2,Vault E
